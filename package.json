@@ -16,8 +16,8 @@
     "author": "sumanDas",
     "license": "MIT",
     "dependencies": {
-        "apollo-server": "^2.12.0",
-        "apollo-server-express": "^2.12.0",
+        "apollo-server": "^2.13.1",
+        "apollo-server-express": "^2.13.1",
         "express": "^4.17.1",
         "graphql": "^15.0.0",
         "graphql-tool": "^1.0.0",
